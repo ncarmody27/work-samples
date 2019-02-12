@@ -1,0 +1,24 @@
+Aim: Single page app as front end of backend
+-using JSON REST API
+
+Step by step
+SETUP
+-Setup backend
+-Setup react
+-choose libraries (remember to keep it simple!)
+pages/views
+-Log in 
+-Sign up 
+-Forgot password
+-organisation (requires login) (first login:must be prompted to join or create organisation)
+-edit organisation
+-specific organisation (view shifts, edit org, leave org)
+-shift page for organisation (table of shifts for all users)
+
+optional exercises (try at least one)
+edit user details page
+edit/delete shifts page
+filter shifts page
+
+
+
