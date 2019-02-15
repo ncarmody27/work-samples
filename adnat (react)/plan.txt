@@ -3,12 +3,12 @@ Aim: Single page app as front end of backend
 
 Step by step
 SETUP
--Setup backend
--Setup react
+-Setup backend [done]
+-Setup react 
 -choose libraries (remember to keep it simple!)
 pages/views
 -Log in 
--Sign up 
+-Sign up [route in postman] [!done]
 -Forgot password
 -organisation (requires login) (first login:must be prompted to join or create organisation)
 -edit organisation
